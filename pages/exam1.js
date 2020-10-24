@@ -4,7 +4,7 @@ import Page from '../src/Page'
 import { $, $$ } from '../src/MathJax'
 import List from '../src/List'
 
-const HW1 = () => {
+const Exam1 = () => {
   return (
     <Page>
       <Typography variant='h5' paragraph>Problem 0</Typography>
@@ -98,4 +98,4 @@ const HW1 = () => {
   )
 }
 
-export default HW1
+export default Exam1
